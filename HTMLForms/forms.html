@@ -1,0 +1,83 @@
+<html>
+  <head>
+    <title>Forms</title>
+  </head>
+
+  <body>
+
+    <form action="" method="get">
+      <p>What is your favorite hobby and why?</p>
+        <textarea name="comments" rows="5" cols="10"></textarea>
+    </form>
+
+    <form action="" method="get">
+      <p>Which is your favorite food out of these 8?
+        <br />
+        <input type="radio" name="foodChoice" value="steak" checked="checked" /> steak
+        <input type="radio" name="foodChoice" value="lamb" /> lamb
+        <input type="radio" name="foodChoice" value="duck" /> duck
+        <input type="radio" name="foodChoice" value="pork" /> pork
+        <input type="radio" name="foodChoice" value="chicken" /> chicken
+        <input type="radio" name="foodChoice" value="egg" /> egg
+        <input type="radio" name="foodChoice" value="pancake" /> pancake
+        <input type="radio" name="foodChoice" value="lemon" /> lemon
+      </p>
+    </form>
+
+    <form action="" method="get">
+      <p>What is your favorite plane out of these 10?</p>
+      <select name="favoritePlane">
+        <option value="A-10">A-10 Warthog</option>
+        <option value="B-17">B-17</option>
+        <option value="B-29">B-29</option>
+        <option value="F-22">F-22</option>
+        <option value="F-18">F-18</option>
+        <option value="F-15">F-15</option>
+        <option value="P-50">P-51 Mustang</option>
+        <option value="P-41">P-41 Spitfire</option>
+        <option value="C-17">C-17</option>
+        <option value="B-52">B-52</option>
+      </select>
+    </form>
+
+    <form action="" method="get">
+      <p>What wars are you most interested in out of the ones on this list?</p>
+      <select name="wars" size="3" multiple="multiple">
+        <option value="WW1" selected="selected">World War 1</option>
+        <option value="WW2">World War 2</option>
+        <option value="CivilWar" selected="selected">U.S. Civil War</option>
+        <option value="RevolutionaryWar">U.S. Revolutionary War</option>
+        <option value="KoreanWar">Korean War</option>
+        <option value="FrenchIndianWar">French Indian War / 7 Years War</option>
+        <option value="EnglishCivilWar">English Civil War</option>
+        <option value="Russo-JapaneseWar">Russo-Japanese War</option>
+        <option value="VietnamWar">Vietnam War</option>
+        <option value="SyrianCivilWar">Syrian Civil War</option>
+      </select>
+    </form>
+
+    <fieldset>
+      <legend>Favorite Type of Transportation and Why</legend>
+      <label>Plane
+        <br />
+        <input type="radio" name="transportChoice" value="plane"/>
+      </label>
+      <br />
+      <label>Train
+        <br />
+        <input type="radio" name="transportChoice" value="train"/>
+      </label>
+      <br />
+      <label>Automobile
+        <br />
+        <input type="radio" name="transportChoice" value="Automobile"/>
+      </label>
+      <br />
+      <label>Why So
+        <br />
+        <input type="text" name="explanation"/>
+      </label>
+    </fieldset>
+
+  </body>
+</html>
