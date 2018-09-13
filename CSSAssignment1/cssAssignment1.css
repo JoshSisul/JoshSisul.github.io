@@ -1,0 +1,59 @@
+
+body {
+  background-color: rgb(101, 177, 53);
+  text-align: center;
+}
+
+h3.one{
+  margin:auto;
+  background-color: rgb(178, 167, 176);
+  border: 10px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgb(218, 252, 43);
+  width: 200px;
+}
+
+ul{
+  padding: 0px;
+  margin: 0px;
+}
+
+li{
+  display: inline;
+  background-color: rgb(201, 185, 222);
+  border-style: dotted;
+  border-color: red;
+  width: 100px;
+  padding: 5px;
+  margin:auto;
+  align-items: center;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+div{
+  margin: auto;
+  background-color: rgb(163, 204, 188);
+  width: 600px;
+}
+
+div:hover{
+  background-color: red;
+}
+
+p.two{
+  margin:auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 7px;
+  padding-right: 7px;
+  background-color: rgb(206, 203, 224);
+  width: 500px;
+  text-shadow: .1px .05px .05px;
+}
+
+a.special:hover {
+  color: orange;
+  text-decoration: none;
+}
