@@ -1,0 +1,85 @@
+
+table.main {
+  border: 10px;
+  border-color: rgb(35, 226, 75);
+  border-style: groove;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: auto;
+}
+
+tr.headmain {
+
+}
+
+th.head {
+  font-size: 20px;
+  border-bottom: 10px;
+  border-color: black;
+  border-style: solid;
+  padding: 10px;
+}
+
+th.body {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+tr.body1 {
+  border-color: black;
+  border-style: solid;
+  padding: 20px;
+}
+
+tr.body2 {
+  border-color: black;
+  border-style: solid;
+  padding: 10px;
+}
+
+tr.body3 {
+  border-color: black;
+  border-style: solid;
+  padding: 10px;
+}
+
+ol.first {
+  text-align: left;
+  border-style: dotted;
+  list-style: upper-roman;
+  border-color: blue;
+  background-color: orange;
+}
+
+ol.second {
+  text-align: left;
+}
+
+ul.third {
+  text-align: left;
+  border-style: dashed;
+  list-style: circle;
+  border-color: green;
+  border-width: thick;
+  background-color: red;
+}
+
+tr.headmain:hover {
+  background-color: rgb(81, 225, 225);
+}
+
+tr.body1:hover{
+  background-color: rgb(81, 225, 225);
+}
+
+tr.body2:hover{
+  background-color: rgb(190, 182, 242);
+}
+
+tr.body3:hover{
+  background-color: rgb(190, 182, 242);
+}
