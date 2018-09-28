@@ -1,0 +1,41 @@
+
+body {
+  background-image: url("Space.jpg");
+  background-repeat: repeat;
+  text-align: center;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+  background-color: grey;
+
+}
+
+div.maindiv {
+  width: 260px;
+  height: 260px;
+  text-align: center;
+  background-color: grey;
+  display: inline-block;
+  color: blue;
+  padding-right: 20px;
+}
+
+div.globe {
+  text-align: right;
+}
+
+div.text {
+  
+}
+
+p {
+  color: grey;
+}
+
+img.mainpic {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
