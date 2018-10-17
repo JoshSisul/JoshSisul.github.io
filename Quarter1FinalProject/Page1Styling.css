@@ -1,0 +1,75 @@
+
+body.page1 {
+  text-align: center;
+  background-image: url("Pictures/Space.jpg");
+  background-repeat: repeat;
+}
+
+div.header1 {
+  text-align: center;
+  margin: auto;
+  background-color: silver;
+  border-style: solid;
+  border-color: white;
+  border-radius: 20px;
+}
+
+div.nav1 {
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+  background-color: silver;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: white;
+}
+
+div.content1 {
+  margin: auto;
+  margin-top: 50px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+  color: silver;
+  height: 320px;
+}
+
+div.content11 {
+  margin: auto;
+  margin-top: 50px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+  color: silver;
+  height: 100px;
+}
+
+div.pic1 {
+  background-color: silver;
+}
+
+div.spacing1 {
+  height: 320px;
+}
+
+li {
+  text-align: center;
+  margin: auto;
+  padding-right: 30px;
+  list-style: none;
+}
+
+img.page1 {
+  width: 400px;
+  height: 200px;
+}
+
+figcaption.page1 {
+  color: black;
+}

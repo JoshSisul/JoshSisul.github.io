@@ -1,0 +1,76 @@
+
+body.page2 {
+  text-align: center;
+  background-image: url("Pictures/Space2.jpg");
+  background-repeat: repeat;
+}
+
+div.header2 {
+  background-color: silver;
+  border-style: solid;
+  border-color: white;
+  border-radius: 20px;
+  margin: auto;
+}
+
+div.nav2 {
+  background-color: silver;
+  border-style: solid;
+  border-color: white;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+div.content2 {
+  margin: auto;
+  margin-top: 50px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+  color: silver;
+  height: 400px;
+}
+
+div.tableheader {
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
+  background-color: silver;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: white;
+}
+
+div.table {
+  text-align: center;
+}
+
+img.page2 {
+  height: 200px;
+  width: 500px;
+}
+
+table.page2 {
+  margin: auto;
+  margin-top: 20px;
+  color: silver;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+}
+
+th {
+  border-style: solid;
+  border-color: white;
+  padding: 5px;
+}
+
+td {
+  border-style: solid;
+  border-color: white;
+  padding: 5px;
+}

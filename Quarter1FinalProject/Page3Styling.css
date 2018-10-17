@@ -1,0 +1,52 @@
+
+body.page3 {
+  text-align: center;
+  background-image: url("Pictures/Space3.jpg");
+}
+
+div.header3 {
+  background-color: silver;
+  border-style: solid;
+  border-color: white;
+  border-radius: 20px;
+  margin: auto;
+}
+
+div.nav3 {
+  background-color: silver;
+  border-style: solid;
+  border-color: white;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+div.content3 {
+  margin: auto;
+  margin-top: 50px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+  color: silver;
+  height: 300px;
+}
+
+div.spacing3 {
+  height: 300px;
+}
+
+div.pic3 {
+  background-color: silver;
+}
+
+img.page3 {
+  width: 400px;
+  height: 200px;
+}
+
+figcaption.page3 {
+  color: black;
+}
