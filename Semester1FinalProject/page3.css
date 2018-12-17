@@ -1,0 +1,83 @@
+
+body.page3 {
+  text-align: center;
+  background-image: url("photos/background.jpeg");
+  background-repeat: repeat;
+}
+
+div.page3Head {
+  text-align: center;
+  margin: auto;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 5px;
+  border-color: black;
+  background-color: lightgreen;
+}
+
+div.page3SubHead {
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+  border-style: solid;
+  border-radius: 15px;
+  background-color: lightblue;
+  border-color: black;
+  padding: 5px;
+}
+
+div.nav3 {
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+  background-color: lightblue;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: black;
+  padding: 5px;
+}
+
+div.content3 {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  background-color: silver;
+  color: black;
+  height: 150px;
+}
+
+div.questions {
+  margin: auto;
+  margin-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  background-color: silver;
+  color: black;
+  height: 200px;
+}
+
+div.questionhead {
+  margin: auto;
+  margin-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  background-color: silver;
+  color: black;
+  height: 70px;
+}

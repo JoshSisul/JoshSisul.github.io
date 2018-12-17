@@ -1,0 +1,80 @@
+
+body.page2 {
+  text-align: center;
+  background-image: url("photos/background.jpeg");
+  background-repeat: repeat;
+}
+
+div.page2Head {
+  text-align: center;
+  margin: auto;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: black;
+  padding: 5px;
+  background-color: lightgreen;
+}
+
+h3.heading {
+  text-align: center;
+}
+
+h4.heading {
+  text-align: center;
+}
+
+div.nav2 {
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+  background-color: lightblue;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: black;
+  padding: 5px;
+}
+
+div.list2 {
+  text-align: left;
+  border-radius: 10px;
+  border-color: black;
+  border-style: solid;
+  margin-top: 20px;
+  background-color: silver;
+  color: black;
+}
+
+div.content2 {
+  margin: auto;
+  margin-top: 358px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  background-color: silver;
+  color: black;
+  height: 85px;
+}
+
+div.table {
+  text-align: center;
+  border-radius: 10px;
+  background-color: silver;
+  border-style: solid;
+  border-color: black;
+  color: black;
+  margin-top: 20px;
+}
+
+th {
+  padding-bottom: 10px;
+}
+
+td {
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  padding: 5px;
+}
